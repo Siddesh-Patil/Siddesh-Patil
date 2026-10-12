@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Siddesh Patil 👋
+**B.Tech CSE Student @ MIT ADT University ('27) | Full-Stack & AI/ML Developer**
 
-<!--
-**Siddesh-Patil/Siddesh-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seeking Remote Internships & Entry-Level roles in Full-Stack Development and AI Engineering.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Building scalable full-stack apps & computer vision / ML pipelines.
+- ⚡ **Featured Project:** [NeuroSim] - BCI simulation with FastAPI, React, and ML decoders.
+- 📄 **Research:** Published paper on Human Emotion Recognition using AWS Rekognition.
+- 📫 **Contact:** siddeshjpatil44@gmail.com | [LinkedIn](https://www.linkedin.com/in/siddesh-patil-474521304)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C++, JavaScript, SQL
+- **Frameworks & Libs:** React, FastAPI, Flask, Spring Boot, EfficientNet
+- **Cloud & DevOps:** Docker, Kubernetes, AWS Rekognition, Git
